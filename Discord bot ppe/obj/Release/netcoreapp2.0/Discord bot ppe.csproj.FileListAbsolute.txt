@@ -1,0 +1,11 @@
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discord bot ppe.csprojResolveAssemblyReference.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discord bot ppe.csproj.CoreCompileInputs.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discord bot ppe.AssemblyInfoInputs.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discord bot ppe.AssemblyInfo.cs
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Release\netcoreapp2.0\Discordbotppe.deps.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Release\netcoreapp2.0\Discordbotppe.runtimeconfig.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Release\netcoreapp2.0\Discordbotppe.runtimeconfig.dev.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Release\netcoreapp2.0\Discordbotppe.dll
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Release\netcoreapp2.0\Discordbotppe.pdb
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discordbotppe.dll
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Release\netcoreapp2.0\Discordbotppe.pdb

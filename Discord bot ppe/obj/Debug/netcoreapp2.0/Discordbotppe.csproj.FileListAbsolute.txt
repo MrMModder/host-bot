@@ -1,0 +1,11 @@
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Debug\netcoreapp2.0\Discordbotppe.deps.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Debug\netcoreapp2.0\Discordbotppe.runtimeconfig.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Debug\netcoreapp2.0\Discordbotppe.runtimeconfig.dev.json
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Debug\netcoreapp2.0\Discordbotppe.dll
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\bin\Debug\netcoreapp2.0\Discordbotppe.pdb
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.csprojResolveAssemblyReference.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.csproj.CoreCompileInputs.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.AssemblyInfoInputs.cache
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.AssemblyInfo.cs
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.dll
+c:\users\maarten\source\repos\Discord bot ppe\Discord bot ppe\obj\Debug\netcoreapp2.0\Discordbotppe.pdb
